@@ -1,0 +1,8 @@
+name: TopCommand
+version: 1.0.0
+api: 4.0.0
+main: Jason8831\Top\Main
+author: Jason8831
+permissions:
+  top.use:
+    default: op
